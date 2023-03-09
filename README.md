@@ -21,7 +21,7 @@ Please note that only the nonlinear motion compensation code mentioned in the pa
 To run the code, Please make sure that the event camera ros driver is installed on your computer.
  - [ROS packages for DVS](https://github.com/uzh-rpg/rpg_dvs_ros "Read this to install Event Camera Driver")
  
-## Download the project and Running the Code
+## Download the Project and Running the Code
 
 1.Download the project:
 ```
@@ -35,7 +35,7 @@ cd ~/catkin_ws
 catkin build
 ```
 
-3.Play the demo.bag
+3.Download the bag and Play
 
 ```
 roscore #open a new terminal
