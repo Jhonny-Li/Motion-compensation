@@ -10,6 +10,6 @@ Please note that only the nonlinear motion compensation code mentioned in the pa
 1.The code was tested successfully on Ubuntu 18.04 and 20.04. And We recommend Ubuntu 20.04, because it can avoid some potential problems.
 
 2.Running the code requires the support of ROS, please install the ROS corresponding to the Ubuntu version first.
- - [ROS melodic installation](http://wiki.ros.org/melodic/Installation/Ubuntu "Read this to install ROS on your system")
- - [ROS Noetic installation](http://wiki.ros.org/Noetic/Installation/Ubuntu "Read this to install ROS on your system")
- - [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials "This is a set of brief ROS tutorials")
+ - [ROS melodic installation](http://wiki.ros.org/melodic/Installation/Ubuntu "Read this to install ROS melodic on your system")
+ - [ROS Noetic installation](http://wiki.ros.org/noetic#Installation "Read this to install ROS Noetic on your system")
+ - [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials "ROS tutorials")
