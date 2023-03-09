@@ -54,6 +54,6 @@ roslaunch datasync motion_compensation.launch
 ```
 
 5.Open a image viewer to display the motion compensation results:
-* `rosrun rqt_image_viewer rqt_image_viewer`  (select topic：count_image)
+* `rosrun rqt_image_view rqt_image_view`  (select topic：/count_image)
 
 ## Parameters
