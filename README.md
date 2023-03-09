@@ -23,7 +23,7 @@ To run the code,Please make sure that the event camera driver is installed on yo
  
 ## Running the Code
 
-1.Download the Motion Compensation source code:
+1.Download the project:
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/Jhonny-Li/Motion-compensation.git
@@ -36,12 +36,20 @@ catkin build
 ```
 
 3.Play the demo_bag
+
 run the roscore:
 ```
 roscore #open a new terminal
 ```
+
 play the bag in a new terminal: 
 ```
 cd ~/catkin_ws/src/bag
 rosbag play demo_bag
+```
+
+4.Run the Motion Compensation node by a launch file:
+```
+source ~/catkin_ws/devel/setup.bash
+roslaunch datasync motion_compensation.launch
 ```
