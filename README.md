@@ -35,7 +35,7 @@ cd ~/catkin_ws
 catkin build
 ```
 
-3.Play the demo_bag
+3.Play the demo.bag
 
 ```
 roscore #open a new terminal
@@ -44,7 +44,7 @@ roscore #open a new terminal
 play the bag in a new terminal: 
 ```
 cd ~/catkin_ws/src/bags
-rosbag play demo_bag
+rosbag play demo.bag
 ```
 
 4.Run the Motion Compensation node by a launch file:
