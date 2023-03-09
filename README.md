@@ -35,4 +35,13 @@ cd ~/catkin_ws
 catkin build
 ```
 
-3.Download the demo_bag:
+3.Play the demo_bag
+run the roscore:
+```
+roscore #open a new terminal
+```
+play the bag in a new terminal: 
+```
+cd ~/catkin_ws/src/bag
+rosbag play demo_bag
+```
