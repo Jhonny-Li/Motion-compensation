@@ -26,5 +26,13 @@ To run the code,Please make sure that the event camera driver is installed on yo
 1.Download the Motion Compensation source code:
 ```
 cd ~/catkin_ws/src
-gitclone 
+git clone https://github.com/Jhonny-Li/Motion-compensation.git
 ```
+
+2.Build the project:
+```
+cd ~/catkin_ws
+catkin build
+```
+
+3.Download the demo_bag:
