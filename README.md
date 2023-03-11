@@ -36,7 +36,7 @@ catkin build
 ```
 
 3.Download the bag and Play
-The bag can be obtained through this [link](https://drive.google.com/file/d/1iDyvsV_8QijaUyVOPwbPZu4C-7pTZDLv/view?usp=share_link)
+The bag can be obtained through this [link.](https://drive.google.com/file/d/1iDyvsV_8QijaUyVOPwbPZu4C-7pTZDLv/view?usp=share_link "Through link to download the bag")
 ```
 roscore #open a new terminal
 ```
