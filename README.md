@@ -58,3 +58,8 @@ roslaunch datasync motion_compensation.launch
 ## Parameters
 Benefiting from the real-time advantage of our method, the proposed algorithm can be run on event sensors with different resolutions.
 The parameters in the launch file define the relevant parameters for cameras with different resolutions:
+
+-weight_param：pixel plane width
+-height_param：pixel plane width
+-focus：lens focal length
+-pixel_size：sensor size
