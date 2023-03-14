@@ -5,7 +5,6 @@
 		<!-- dvxplorer config-->
 		<param name="weight_param"    value="640"/>
 		<param name="height_param"    	value="480"/> 
-		<param name="K_param"         	value="600"/>
 		<param name="focus"           	value="5294"/>
 		<param name="pixel_size"      	value="9"/> 
 
@@ -13,7 +12,6 @@
 		<!-- davis 346 config
 		<param name="weight_param"          value="346"/>
 		<param name="height_param"          value="260"/>
-		<param name="K_param"         		value="354"/>
 		<param name="focus"           		value="6550"/>
 		<param name="pixel_size"      		value="18.5"/> -->
 
@@ -21,7 +19,6 @@
 		<!-- davis 240c config-->
 		<!-- <param name="weight_param"    value="240"/>
 		<param name="height_param"    	value="180"/> 
-		<param name="K_param"         	value="215"/>
 		<param name="focus"          	value="4000"/>
 		<param name="pixel_size"      	value="18.5"/> -->
 
@@ -29,7 +26,6 @@
 		<!-- davis 240b config-->
 		<!-- <param name="weight_param"    value="190"/>
 		<param name="height_param"    	value="180"/> 
-		<param name="K_param"         	value="200"/>
 		<param name="focus"           	value="4000"/>
 		<param name="pixel_size"      	value="18.5"/> -->
 
