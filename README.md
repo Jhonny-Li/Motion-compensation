@@ -41,9 +41,8 @@ catkin build
 roscore #open a new terminal
 ```
 
-Move the bag to ~/catkin_ws/src/bags, and play the bag in a new terminal: 
+Play the bag in a new terminal: 
 ```
-cd ~/catkin_ws/src/bags
 rosbag play demo.bag
 ```
 
